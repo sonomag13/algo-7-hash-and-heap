@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="implement_stack_by_2_queue" targetName="implement_stack_by_2_queue" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="273db3a1-5121-41aa-adda-1f7d64229c1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1b3uZKCve02bapUPBuu3YbcvkFR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.overridden" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RunManager">
+    <configuration name="implement_stack_by_2_queue" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="implement_stack_by_2_queue" TARGET_NAME="implement_stack_by_2_queue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="implement_stack_by_2_queue" RUN_TARGET_NAME="implement_stack_by_2_queue">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="273db3a1-5121-41aa-adda-1f7d64229c1c" name="Default Changelist" comment="" />
+      <created>1587873152943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587873152943</updated>
+      <workItem from="1587873155869" duration="1987000" />
+      <workItem from="1587876371352" duration="938000" />
+      <workItem from="1587877329660" duration="7000" />
+      <workItem from="1587954900763" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="690" width="1152" height="740" key="#Plugins" timestamp="1587876732356">
+      <screen x="67" y="569" width="1853" height="1053" />
+    </state>
+    <state x="415" y="690" width="1152" height="740" key="#Plugins/67.569.1853.1053/1920.0.1200.1920@67.569.1853.1053" timestamp="1587876732356" />
+    <state x="2265" y="281" width="803" height="526" key="FileChooserDialogImpl" timestamp="1587954931690">
+      <screen x="1920" y="0" width="1200" height="1920" />
+    </state>
+    <state x="2265" y="281" key="FileChooserDialogImpl/67.569.1853.1053/1920.0.1200.1920@1920.0.1200.1920" timestamp="1587954931690" />
+    <state x="600" y="723" width="803" height="526" key="FileChooserDialogImpl/67.569.1853.1053/1920.0.1200.1920@67.569.1853.1053" timestamp="1587876930820" />
+    <state width="1807" height="409" key="GridCell.Tab.0.bottom" timestamp="1587877308579">
+      <screen x="67" y="569" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="409" key="GridCell.Tab.0.bottom/67.569.1853.1053/1920.0.1200.1920@67.569.1853.1053" timestamp="1587877308579" />
+    <state width="1807" height="409" key="GridCell.Tab.0.center" timestamp="1587877308579">
+      <screen x="67" y="569" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="409" key="GridCell.Tab.0.center/67.569.1853.1053/1920.0.1200.1920@67.569.1853.1053" timestamp="1587877308579" />
+    <state width="1807" height="409" key="GridCell.Tab.0.left" timestamp="1587877308579">
+      <screen x="67" y="569" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="409" key="GridCell.Tab.0.left/67.569.1853.1053/1920.0.1200.1920@67.569.1853.1053" timestamp="1587877308579" />
+    <state width="1807" height="409" key="GridCell.Tab.0.right" timestamp="1587877308579">
+      <screen x="67" y="569" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="409" key="GridCell.Tab.0.right/67.569.1853.1053/1920.0.1200.1920@67.569.1853.1053" timestamp="1587877308579" />
+    <state width="1807" height="334" key="GridCell.Tab.1.bottom" timestamp="1587875546199">
+      <screen x="67" y="569" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.1.bottom/67.569.1853.1053/1920.0.1200.1920@67.569.1853.1053" timestamp="1587875546199" />
+    <state width="1807" height="334" key="GridCell.Tab.1.center" timestamp="1587875546199">
+      <screen x="67" y="569" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.1.center/67.569.1853.1053/1920.0.1200.1920@67.569.1853.1053" timestamp="1587875546199" />
+    <state width="1807" height="334" key="GridCell.Tab.1.left" timestamp="1587875546198">
+      <screen x="67" y="569" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.1.left/67.569.1853.1053/1920.0.1200.1920@67.569.1853.1053" timestamp="1587875546198" />
+    <state width="1807" height="334" key="GridCell.Tab.1.right" timestamp="1587875546199">
+      <screen x="67" y="569" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.1.right/67.569.1853.1053/1920.0.1200.1920@67.569.1853.1053" timestamp="1587875546199" />
+    <state x="125" y="685" width="1553" height="730" key="SettingsEditor" timestamp="1587877081827">
+      <screen x="67" y="569" width="1853" height="1053" />
+    </state>
+    <state x="125" y="685" width="1553" height="730" key="SettingsEditor/67.569.1853.1053/1920.0.1200.1920@67.569.1853.1053" timestamp="1587877081827" />
+    <state x="1920" y="634" width="1200" height="685" maximized="true" key="dock-window-1" timestamp="1587874268777">
+      <screen x="1920" y="0" width="1200" height="1920" />
+    </state>
+    <state x="1920" y="634" width="1200" height="685" maximized="true" key="dock-window-1/67.569.1853.1053/1920.0.1200.1920@67.569.1853.1053" timestamp="1587874268777" />
+    <state x="656" y="799" width="672" height="678" key="search.everywhere.popup" timestamp="1587876710998">
+      <screen x="67" y="569" width="1853" height="1053" />
+    </state>
+    <state x="656" y="799" width="672" height="678" key="search.everywhere.popup/67.569.1853.1053/1920.0.1200.1920@67.569.1853.1053" timestamp="1587876710998" />
+  </component>
+</project>

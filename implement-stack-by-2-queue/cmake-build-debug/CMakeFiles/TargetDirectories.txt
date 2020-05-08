@@ -1,3 +1,0 @@
-/home/strobe/learning-algo-week-7-hash-and-heap/implement-stack-by-2-queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/strobe/learning-algo-week-7-hash-and-heap/implement-stack-by-2-queue/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/strobe/learning-algo-week-7-hash-and-heap/implement-stack-by-2-queue/cmake-build-debug/CMakeFiles/implement_stack_by_2_queue.dir
