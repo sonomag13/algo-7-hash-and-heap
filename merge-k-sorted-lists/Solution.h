@@ -14,20 +14,59 @@ Example 2:
     Output:  2->5->6->7->null
   */
 
-/**
- * Definition of ListNode
- * class ListNode {
- * public:
- *     int val;
- *     ListNode *next;
- *     ListNode(int val) {
- *         this->val = val;
- *         this->next = NULL;
- *     }
- * }
- */
- 
-class Solution {
+#include <iostream>
+#include <vector>
+
+using namespace std; 
+
+// Definition of ListNode
+class ListNode {
+public:
+int val;
+ListNode *next;
+ListNode(int val) {
+    this->val = val;
+    this->next = NULL;
+    }
+};
+
+class Good_Solution {
+public:
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        
+        auto head = new ListNode(0);                 
+        auto curr{head}; 
+        
+        auto comp = [] (const ListNode* node1, const ListNode* node2) {
+            return node1->val > node2->val; 
+        };
+        
+        priority_queue<ListNode*, vector<ListNode*>, decltype(comp)> pq(comp); 
+        
+        for (auto node : lists) {
+            if (node) {
+                pq.push(node); 
+            }
+        }
+        
+        // BFS
+        while (!pq.empty()) {            
+            curr->next = pq.top();
+            pq.pop();
+            curr = curr->next; 
+            
+            if (curr->next) {
+                pq.push(curr->next); 
+            }
+        }
+        
+        return head->next; 
+        
+    }
+};
+
+// this is a really inefficidnt solution
+class Inefficient_Solution {
 public:
     /**
      * @param lists: a list of ListNode
